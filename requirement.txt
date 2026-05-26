@@ -5,3 +5,4 @@ pytest-xdist
 allure-pytest
 pandas
 pytest-check
+soft-assert
