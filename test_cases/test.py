@@ -1,24 +1,15 @@
-import time
-from symtable import Class
 
 import allure
 import pytest
-from selenium.webdriver.common.by import By
 
 from pages.Click import Click
 from pages.ajax_load import AjaxLoad
-from pages.alerts import Alerts
-from pages.animated_button import AnimatedButton
 from pages.classic_attribute_page import ClassicAttribute
 from pages.dynamic_table import DynamicTable
-from pages.file_upload import FileUpload
 from pages.hidden_layers import HiddenLayers
 from pages.load_delay import LoadDelay
-from pages.mouse_action import MouseAction
 from pages.progress_bar import ProgressBar
-from pages.sample_file import SampleFile
 from pages.scrollbars import ScrollBars
-from pages.shadowdom import ShadowDom
 from pages.test_input import TextInput
 from pages.view_page import ViewPage
 from pages.dynamic_ID_page import DynamicID
