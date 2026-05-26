@@ -1,0 +1,4 @@
+selenium
+pytest
+webdriver-manager
+pip3 install pytest-xdist
